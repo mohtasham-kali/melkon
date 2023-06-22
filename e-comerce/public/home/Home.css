@@ -1,0 +1,135 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1034px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 682px;
+  height: 740px;
+  margin: 122px 0 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 649px;
+  min-height: 629px;
+  height: auto;
+  background-image: none;
+  margin: -501px auto 44px 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  margin: 57px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  font-size: 1.2rem;
+  font-weight: 400;
+  font-style: normal;
+  margin: 40px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  transition-duration: 0.5s;
+  text-transform: none;
+  font-weight: 600;
+  background-image: none;
+  margin: 85px auto 0 0;
+  padding: 18px 57px 19px;
+  background-color: #2a8cc5;
+  border-radius: 50px;
+  padding-top: 10px;
+}
+
+.u-section-1 .u-btn-2 {
+  letter-spacing: 1px;
+  transition-duration: 0.5s;
+  text-transform: none;
+  font-weight: 600;
+  background-image: none;
+  margin: 68px 14px 0;
+  padding: 18px 57px 19px;
+  background-color: #fff;
+  border-radius: 50px;
+  padding-top: 10px;
+  color: #000;
+}
+
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 372px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 880px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 586px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-top: -347px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -63px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 766px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 369px;
+    margin-top: 424px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: -515px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 20px;
+    margin-right: auto;
+  }
+}
